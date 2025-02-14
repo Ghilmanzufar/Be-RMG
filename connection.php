@@ -1,6 +1,6 @@
 <?php
 // Konfigurasi database
-$host = 'localhost';
+$host = 'mysql://root:DYyDJzcmwCIhULUyUsMSIMRTupxGcWfQ@autorack.proxy.rlwy.net:31941/railway';
 $username = 'root';
 $password = '';
 $database = 'db_resep';
