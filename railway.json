@@ -1,0 +1,7 @@
+{
+    "build": {
+        "builder": "NIXPACKS",
+        "buildCommand": "echo 'No build step required for pure PHP'"
+    },
+    "start": "php -S 0.0.0.0:3000"
+}
